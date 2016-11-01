@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innoblog.iml" filepath="$PROJECT_DIR$/.idea/modules/innoblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innoblog_main.iml" filepath="$PROJECT_DIR$/.idea/modules/innoblog_main.iml" group="innoblog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/innoblog_test.iml" filepath="$PROJECT_DIR$/.idea/modules/innoblog_test.iml" group="innoblog" />
+    </modules>
+  </component>
+</project>
